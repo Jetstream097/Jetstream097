@@ -1,6 +1,6 @@
 -  Hi, I’m @Jetstream097
--  I’m interested in making video games
 -  I’m currently learning c++
+-  I'd like to learn anything new if possible
 -  I’m looking to collaborate on anything i can help with
 
 <!---
